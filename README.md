@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ## Projects
 
-[] Coming soon
+🏥 [Auxiliando no Diagnóstico da Doença de Parkinson a partir de Dados de Movimento coletados por Smartwatch](https://github.com/RafaVisten/MLParkinson)
