@@ -10,21 +10,22 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### Sobre mim
 * Cursando Ciência da Computação na Universidade Federal de Goiás (UFG).
 * Participei de uma Iniciação Científica (IC) sobre a aplicação de métodos de aprendizado de máquina para auxiliar no diagnóstico da doença de Parkinson.
-* atualmente faço parte de uma iniciativa de pesquisa sobre ambientes digitais imersivos do Centro de Conhecimento Avançado em Tecnologias Imersivas (AKCIT).
+* Faço parte de uma iniciativa de pesquisa sobre ambientes digitais imersivos do Centro de Conhecimento Avançado em Tecnologias Imersivas (AKCIT).
+* Atualmente estou focado em aprender **SQL / RDBMS** e **PowerBI / Tableau**.
 
-### Learning
-- - SQL
-- - PowerBI
+### Projetos
 
-## Projects
-🏥 [Auxiliando no Diagnóstico da Doença de Parkinson a partir de Dados de Movimento coletados por Smartwatch](https://github.com/RafaVisten/MLParkinson)
+| Link | Área | Descrição | Bibliotecas |
+| --- | ---- | ---- | --- |
+| 🏥 [ML Parkinson](https://github.com/RafaVisten/MLParkinson) | EDA, Machine Learning | IC voltada à aplicação de métodos de ML para auxiliar no diagnóstico da doença de Parkinson | pandas, numpy, matplotlib, seaborn, scikit-learn
 
-## How to reach me
+### Vamos conversar?
 
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-padilha-1b28023a5/)
-[![Email Badge](https://img.shields.io/badge/-Email-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:ralvespadilha@proton.me)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-padilha-1b28023a5/)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ralvespadilha@proton.me)
