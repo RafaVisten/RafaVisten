@@ -21,9 +21,11 @@
 
 ### Projetos
 
-| Link | Área | Descrição | Bibliotecas |
+Sinta-se livre para explorar meus repositórios públicos! Abaixo estão destacados os meus projetos principais:
+
+| Link | Palavras-Chave | Descrição | Bibliotecas |
 | --- | ---- | ---- | --- |
-| 🏥 [ML Parkinson](https://github.com/RafaVisten/MLParkinson) | EDA, Machine Learning | IC voltada à aplicação de métodos de ML para auxiliar no diagnóstico da doença de Parkinson | pandas, numpy, matplotlib, seaborn, scikit-learn
+| 🏥 [ML Parkinson](https://github.com/RafaVisten/MLParkinson) |![EDA](https://img.shields.io/badge/EDA-gray?style=for-the-badge) ![ML](https://img.shields.io/badge/Machine%20Learning-gray?style=for-the-badge)  | IC voltada à aplicação de métodos de ML para auxiliar no diagnóstico da doença de Parkinson | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Vamos conversar?
 
