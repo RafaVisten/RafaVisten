@@ -1,31 +1,26 @@
 ## Hi there 👋
 
-### About me
-My name is Rafael Alves Padilha, and I'm on my 7th semester on the Bachelor of Computer Science degree in UFG (Universidade Federal de Goiás).
-I have participated in a cientific initiation on applying machine learning methods to aid in Parkinson's Disease diagnosis, and I am curently part of an AKCIT research initiative on immersive digital environments.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### Sobre mim
-Meu nome é Rafael Alves Padilha e estou no meu 7º semestre do curso de Bacharelado em Ciência da Computação na UFG (Universidade Federal de Goiás).
-Participei de uma iniciação científica sobre a aplicação de métodos de aprendizado de máquina para auxiliar no diagnóstico da doença de Parkinson e atualmente faço parte de uma iniciativa de pesquisa da AKCIT sobre ambientes digitais imersivos.
-
-### Skills
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat-square&logo=gitlab)
-
+* Cursando Ciência da Computação na Universidade Federal de Goiás (UFG).
+* Participei de uma Iniciação Científica (IC) sobre a aplicação de métodos de aprendizado de máquina para auxiliar no diagnóstico da doença de Parkinson.
+* atualmente faço parte de uma iniciativa de pesquisa sobre ambientes digitais imersivos do Centro de Conhecimento Avançado em Tecnologias Imersivas (AKCIT).
 
 ### Learning
-
 - - SQL
 - - PowerBI
 
 ## Projects
-
 🏥 [Auxiliando no Diagnóstico da Doença de Parkinson a partir de Dados de Movimento coletados por Smartwatch](https://github.com/RafaVisten/MLParkinson)
 
 ## How to reach me
